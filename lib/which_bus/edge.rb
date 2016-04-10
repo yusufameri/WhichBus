@@ -2,8 +2,8 @@ module WhichBus
   class Edge
     attr_accessor :from, :to, :weight
 
-    def initialize(from, to, weight, route_id)
-      @from, @to, @weight, @route_id = from, to, weight, route_id
+    def initialize(from, to, weight)
+      @from, @to, @weight = from, to, weight
     end
 
     def <=>(other)
@@ -11,7 +11,7 @@ module WhichBus
     end
 
     def to_s
-      "#{from.to_s} => #{to.to_s} with weight #{weight} and on route: #{route_id}"
+      "#{from.to_s} => #{to.to_s} with weight #{weight}"
     end
   end
 end

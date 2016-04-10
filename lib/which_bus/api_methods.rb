@@ -15,7 +15,7 @@ module WhichBus
     def get_stops(route_id)
       stops_hash = Hash.new
 
-      request = Net::HTTP::Get.new("#{BASE_URI}/routes/117/")
+      request = Net::HTTP::Get.new("#{BASE_URI}/routes/#{route_id}/")
       response = HTTP.request(request)
 
       parsed = JSON.parse response.body

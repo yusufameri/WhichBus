@@ -53,9 +53,7 @@ r = [
   [nodes_117["mitc_out"], nodes_117["memo_out"], 5],
   [nodes_117["memo_out"], nodes_117["mont_out"], 4],
   [nodes_117["mont_out"], nodes_117["baltritc"], 3],
-  [nodes_117["memo_out"], nodes_117["mont_out"], 4],
-  [nodes_117["mont_out"], nodes_117["baltritc"], 3],
-  [nodes_117["baltritc"], nodes_117["mitc_out"], 1],
+  [nodes_117["baltritc"], nodes_117["baltpbra"], 1],
   [nodes_117["baltpbra"], nodes_117["univclub"], 9],
   [nodes_117["univclub"], nodes_117["berwuniv"], 4],
   [nodes_117["berwuniv"], nodes_117["univview"], 2],
@@ -70,4 +68,7 @@ end_point = nodes_117["biofield"]
 ob = Dijkstra.new(start_point, end_point, r)
 
 puts "Cost = #{ob.cost}"
-puts "Shortest Path from #{start_point} to #{end_point} = #{ob.shortest_path}"
+# puts "Shortest Path from #{start_point} to #{end_point} = #{ob.shortest_path}"
+ob.shortest_path.each do |variable|
+  puts "#{variable}"
+end

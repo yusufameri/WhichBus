@@ -13,8 +13,8 @@ module WhichBus
       node.graph = self
     end
 
-    def add_edge(from, to, weight, route_id)
-      edges << Edge.new(from, to, weight, route_id)
+    def add_edge(from, to, weight)
+      edges << Edge.new(from, to, weight)
     end
   end
 end

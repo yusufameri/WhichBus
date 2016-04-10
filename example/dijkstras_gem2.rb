@@ -18,9 +18,6 @@ nodes_116 = []
 nodes_117 = []
 
 
-# make the graph
-graph = WhichBus::Graph.new
-
 # create nodes from bus stop ids and add them to the graph
 def create_nodes_from(stops)
   nodes = []
