@@ -26,5 +26,13 @@ module WhichBus
       end
       stops_hash
     end
+
+    def get_epoch_time(route_id, stopid)
+      request = Net::HTTP::Get.new("#{BASE_URI}/routes/#{route_id}/stops/#{stopid}/predictions")
+      response = HTTP.request(request)
+
+      parsed = JSON.parse response.body
+      epochtime = parsed[0]["values"][0]["epochTime"]
+    end
   end
 end

@@ -3,6 +3,7 @@ require "pp"
 require "uri"
 require 'json'
 require "net/HTTP"
+require 'date'
 
 # constants
 uri = URI.parse("HTTP://restbus.info")
@@ -56,9 +57,19 @@ def connect_nodes(graph, nodes, route_id)
     node.route_id = route_id
     # connect the last node to the first node
     if index == nodes.size - 1
-      graph.add_edge(node, nodes[0] , 5)
+      node_1 = node
+      node_2 = nodes[0]
+      time_n_1 = @api.get_epoch_time(route_id, node_1.stop.id)
+      time_n_2 = @api.get_epoch_time(route_id, node_2.stop.id)
+      net_time = (time_n_2 - time_n_1).abs
+      graph.add_edge(node_1, node_2 , net_time)
     else # connect the current node to the next node
-      graph.add_edge(node, nodes[index + 1] , 5)
+      node_1 = node
+      node_2 = nodes[index + 1]
+      time_n_1 = @api.get_epoch_time(route_id, node_1.stop.id)
+      time_n_2 = @api.get_epoch_time(route_id, node_2.stop.id)
+      net_time = (time_n_2 - time_n_1).abs
+      graph.add_edge(node_1, node_2 , net_time)
     end
   end
 end
@@ -96,12 +107,13 @@ def print_shortest_path(graph, nodes, source_stopid, destination_stopid)
   dijkstra = WhichBus::Dijkstra.new(graph, source_node)
   shortest_path = dijkstra.shortest_path_to(destination_node)
 
-  time = dijkstra.distance.first[1]
+  epochTime = dijkstra.distance.first[1] # total cost of time
+  time = Time.at(Time.now - epochTime).min
   source_node_title = get_node_by_stopid(nodes, source_stopid).name
   destination_node_title = get_node_by_stopid(nodes, destination_stopid).name
 
 
-  puts "It should take about #{time} min to get to #{source_node_title} from #{destination_node_title}"
+  puts "It should take about #{time} min to get from #{source_node_title} to #{destination_node_title}"
   puts "Here is the path you need to take:"
   shortest_path.each_with_index do |bus_stop, index|
     puts "#{index + 1}: #{bus_stop} with bus: #{bus_stop.route_id}"
