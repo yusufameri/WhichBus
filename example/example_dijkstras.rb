@@ -13,8 +13,8 @@ BASE_URI = "/api/agencies/umd"
 @api = WhichBus::APIMethods.new
 
 
-stops_116 = @api.get_stops(116) # bus stops in order of 116 Purple
-stops_117 = @api.get_stops(117) # bus stops in order of 117 Blue
+stops_116 = @api.get_stops_for_route(116) # bus stops in order of 116 Purple
+stops_117 = @api.get_stops_for_route(117) # bus stops in order of 117 Blue
 nodes_116 = []
 nodes_117 = []
 

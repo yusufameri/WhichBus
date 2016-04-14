@@ -1,0 +1,2321 @@
+---
+peargara_d: !ruby/object:WhichBus::Stop
+  lat: 39.2902805
+  lon: -76.6244357
+  id: peargara_d
+  title: Pearl St Garage
+pearlexi: !ruby/object:WhichBus::Stop
+  lat: 39.2912697
+  lon: -76.6245767
+  id: pearlexi
+  title: Pearl St & Lexington St
+greefaye: !ruby/object:WhichBus::Stop
+  lat: 39.2906039
+  lon: -76.6238161
+  id: greefaye
+  title: Green St & Fayette St
+greebalt: !ruby/object:WhichBus::Stop
+  lat: 39.2893641
+  lon: -76.6237402
+  id: greebalt
+  title: Green St & Baltimore St
+greelomb: !ruby/object:WhichBus::Stop
+  lat: 39.2878137
+  lon: -76.6236502
+  id: greelomb
+  title: Greene St & Lombard St
+greeprat: !ruby/object:WhichBus::Stop
+  lat: 39.2858837
+  lon: -76.6235606
+  id: greeprat
+  title: Green St & Pratt St
+washemor: !ruby/object:WhichBus::Stop
+  lat: 39.2845547
+  lon: -76.6243626
+  id: washemor
+  title: Washington Blvd & Emory St
+washmlk: !ruby/object:WhichBus::Stop
+  lat: 39.2836366
+  lon: -76.6258071
+  id: washmlk
+  title: Washington Blvd & Martin Luther King Jr Blvd
+washbarr: !ruby/object:WhichBus::Stop
+  lat: 39.2831818
+  lon: -76.6271527
+  id: washbarr
+  title: Washington Blvd & Barre St
+washscot: !ruby/object:WhichBus::Stop
+  lat: 39.28301
+  lon: -76.6286705
+  id: washscot
+  title: Washington Blvd & Scott St
+ramsapts: !ruby/object:WhichBus::Stop
+  lat: 39.2837199
+  lon: -76.6288099
+  id: ramsapts
+  title: Ramsay St Apartments
+scotroun: !ruby/object:WhichBus::Stop
+  lat: 39.2852839
+  lon: -76.628899
+  id: scotroun
+  title: Scott St & Roundhouse Dr
+scotlemm: !ruby/object:WhichBus::Stop
+  lat: 39.2865555
+  lon: -76.6289693
+  id: scotlemm
+  title: Scott St & Lemmon St
+lombpark: !ruby/object:WhichBus::Stop
+  lat: 39.2869202
+  lon: -76.6304041
+  id: lombpark
+  title: Lombard St & Parkin St
+popplomb: !ruby/object:WhichBus::Stop
+  lat: 39.2872937
+  lon: -76.6320202
+  id: popplomb
+  title: Poppleton St & Lombard St
+poppboot: !ruby/object:WhichBus::Stop
+  lat: 39.2887338
+  lon: -76.6320545
+  id: poppboot
+  title: Poppleton St & Booth St
+biopark: !ruby/object:WhichBus::Stop
+  lat: 39.2888703
+  lon: -76.6295244
+  id: biopark
+  title: BioPark
+baltfrem: !ruby/object:WhichBus::Stop
+  lat: 39.2889299
+  lon: -76.62859
+  id: baltfrem
+  title: Baltimore St & Martin Luther King Jr Blvd
+baltpine: !ruby/object:WhichBus::Stop
+  lat: 39.28902
+  lon: -76.6265294
+  id: baltpine
+  title: Baltimore & Pine St
+umbtrans: !ruby/object:WhichBus::Stop
+  lat: 39.28912
+  lon: -76.6242891
+  id: umbtrans
+  title: UMB Transit Center
+pacafaye: !ruby/object:WhichBus::Stop
+  lat: 39.2905826
+  lon: -76.6223157
+  id: pacafaye
+  title: Paca St & Fayette St
+pacasara: !ruby/object:WhichBus::Stop
+  lat: 39.292951
+  lon: -76.6224692
+  id: pacasara
+  title: Paca St & Saratoga St
+pennstmr: !ruby/object:WhichBus::Stop
+  lat: 39.2957178
+  lon: -76.6249557
+  id: pennstmr
+  title: Pennsylvania Ave & St Mary St
+ummccamp: !ruby/object:WhichBus::Stop
+  lat: 39.2995236
+  lon: -76.620848
+  id: ummccamp
+  title: 'UMMC: Midtown Campus'
+eutadrui: !ruby/object:WhichBus::Stop
+  lat: 39.2969422
+  lon: -76.6214416
+  id: eutadrui
+  title: Eutaw St & Druid Hill Ave
+eutafran: !ruby/object:WhichBus::Stop
+  lat: 39.2954642
+  lon: -76.6213496
+  id: eutafran
+  title: Eutaw St & Franklin St
+eutamulb: !ruby/object:WhichBus::Stop
+  lat: 39.2940418
+  lon: -76.6212903
+  id: eutamulb
+  title: Eutaw St & Mulberry St
+eutasara: !ruby/object:WhichBus::Stop
+  lat: 39.2930023
+  lon: -76.621231
+  id: eutasara
+  title: Eutaw St & Saratoga St
+lexmmetr: !ruby/object:WhichBus::Stop
+  lat: 39.2912536
+  lon: -76.6210983
+  id: lexmmetr
+  title: Lexington Market
+fayepaca: !ruby/object:WhichBus::Stop
+  lat: 39.2903797
+  lon: -76.6220648
+  id: fayepaca
+  title: Fayette St & Paca St
+baltpaca: !ruby/object:WhichBus::Stop
+  lat: 39.289261
+  lon: -76.622522
+  id: baltpaca
+  title: Baltimore St & Paca St
+balteuta: !ruby/object:WhichBus::Stop
+  lat: 39.289276
+  lon: -76.6205908
+  id: balteuta
+  title: Baltimore St & Eutaw St
+balthopk: !ruby/object:WhichBus::Stop
+  lat: 39.2893089
+  lon: -76.6183301
+  id: balthopk
+  title: Baltimore St & Hopkins Pl
+charcent: !ruby/object:WhichBus::Stop
+  lat: 39.2897753
+  lon: -76.61508
+  id: charcent
+  title: Charles Center Metro
+charsara: !ruby/object:WhichBus::Stop
+  lat: 39.2921693
+  lon: -76.615243
+  id: charsara
+  title: Charles St & Saratoga St
+charhami: !ruby/object:WhichBus::Stop
+  lat: 39.2955003
+  lon: -76.615487
+  id: charhami
+  title: Charles St & Hamilton St
+charvern: !ruby/object:WhichBus::Stop
+  lat: 39.2976358
+  lon: -76.6153272
+  id: charvern
+  title: Charles St and Mt Vernon Pl
+charread: !ruby/object:WhichBus::Stop
+  lat: 39.2994603
+  lon: -76.61575
+  id: charread
+  title: Charles St and Read St
+chareage: !ruby/object:WhichBus::Stop
+  lat: 39.3008205
+  lon: -76.61584
+  id: chareage
+  title: Charles St and Eager St
+charchas: !ruby/object:WhichBus::Stop
+  lat: 39.3022102
+  lon: -76.6159384
+  id: charchas
+  title: Charles St and Chase St
+charbidd: !ruby/object:WhichBus::Stop
+  lat: 39.3033097
+  lon: -76.6160106
+  id: charbidd
+  title: Charles St and Biddle St
+charpres: !ruby/object:WhichBus::Stop
+  lat: 39.3042904
+  lon: -76.6160806
+  id: charpres
+  title: Charles St and Preston St
+charpenn: !ruby/object:WhichBus::Stop
+  lat: 39.307542
+  lon: -76.6162717
+  id: charpenn
+  title: Charles St & Penn Station
+paulpenn: !ruby/object:WhichBus::Stop
+  lat: 39.306938
+  lon: -76.614732
+  id: paulpenn
+  title: St Paul St & Penn Station
+paulpres: !ruby/object:WhichBus::Stop
+  lat: 39.3042325
+  lon: -76.614551
+  id: paulpres
+  title: St Paul and Preston St
+paulbidd: !ruby/object:WhichBus::Stop
+  lat: 39.3031046
+  lon: -76.6144795
+  id: paulbidd
+  title: St Paul and Biddle St
+paulchas: !ruby/object:WhichBus::Stop
+  lat: 39.301753
+  lon: -76.6143794
+  id: paulchas
+  title: St Paul and Chase St
+paulread: !ruby/object:WhichBus::Stop
+  lat: 39.2999427
+  lon: -76.6142601
+  id: paulread
+  title: St Paul and Read St
+paulmadi: !ruby/object:WhichBus::Stop
+  lat: 39.2988525
+  lon: -76.6141909
+  id: paulmadi
+  title: St Paul St and Madison St
+paulcent: !ruby/object:WhichBus::Stop
+  lat: 39.2967031
+  lon: -76.614023
+  id: paulcent
+  title: St Paul St & Centre St
+paulmulb: !ruby/object:WhichBus::Stop
+  lat: 39.294306
+  lon: -76.6142719
+  id: paulmulb
+  title: St Paul & Mulberry St
+paulsara: !ruby/object:WhichBus::Stop
+  lat: 39.2924957
+  lon: -76.6141345
+  id: paulsara
+  title: St Paul & Saratoga St
+paullexi: !ruby/object:WhichBus::Stop
+  lat: 39.2912234
+  lon: -76.614017
+  id: paullexi
+  title: St Paul & Lexington St
+fayeplaz: !ruby/object:WhichBus::Stop
+  lat: 39.290347
+  lon: -76.6162306
+  id: fayeplaz
+  title: Fayette St Plaza
+fayehowa: !ruby/object:WhichBus::Stop
+  lat: 39.2905268
+  lon: -76.6192767
+  id: fayehowa
+  title: Fayette St & Howard St
+mlkbalt: !ruby/object:WhichBus::Stop
+  lat: 39.2887912
+  lon: -76.6281499
+  id: mlkbalt
+  title: Martin Luther King Jr Blvd & Baltimore St
+pratpenn: !ruby/object:WhichBus::Stop
+  lat: 39.28607
+  lon: -76.6255869
+  id: pratpenn
+  title: Pratt St & Penn St
+pratgree: !ruby/object:WhichBus::Stop
+  lat: 39.2861103
+  lon: -76.6238817
+  id: pratgree
+  title: Pratt St & Green St
+prathowa: !ruby/object:WhichBus::Stop
+  lat: 39.2862103
+  lon: -76.6194926
+  id: prathowa
+  title: Pratt St & Howard St
+pratshar: !ruby/object:WhichBus::Stop
+  lat: 39.2863099
+  lon: -76.6173584
+  id: pratshar
+  title: Pratt St & Sharp St
+pratligh: !ruby/object:WhichBus::Stop
+  lat: 39.2865153
+  lon: -76.6141229
+  id: pratligh
+  title: Pratt St & Light St
+lightlee: !ruby/object:WhichBus::Stop
+  lat: 39.2819927
+  lon: -76.6131541
+  id: lightlee
+  title: Light St & Lee St
+lightmon: !ruby/object:WhichBus::Stop
+  lat: 39.2802116
+  lon: -76.6127727
+  id: lightmon
+  title: Light St & Montgomery St
+lighthen: !ruby/object:WhichBus::Stop
+  lat: 39.2792919
+  lon: -76.6126964
+  id: lighthen
+  title: Light St & Henrietta St
+lightcro: !ruby/object:WhichBus::Stop
+  lat: 39.2773539
+  lon: -76.6124475
+  id: lightcro
+  title: Light St & Cross St
+lightwes: !ruby/object:WhichBus::Stop
+  lat: 39.2757218
+  lon: -76.612207
+  id: lightwes
+  title: Light St & West St
+lightost: !ruby/object:WhichBus::Stop
+  lat: 39.2745604
+  lon: -76.6120535
+  id: lightost
+  title: Light St & Ostend St
+fortligh: !ruby/object:WhichBus::Stop
+  lat: 39.2727731
+  lon: -76.6119228
+  id: fortligh
+  title: Light St & Fort Ave
+fortchar: !ruby/object:WhichBus::Stop
+  lat: 39.2727096
+  lon: -76.6137297
+  id: fortchar
+  title: Fort Ave & Charles St
+charoste: !ruby/object:WhichBus::Stop
+  lat: 39.2743985
+  lon: -76.6141639
+  id: charoste
+  title: Charles St & Ostend St
+charwest: !ruby/object:WhichBus::Stop
+  lat: 39.2755392
+  lon: -76.6142309
+  id: charwest
+  title: Charles St & West St
+charcros: !ruby/object:WhichBus::Stop
+  lat: 39.2766487
+  lon: -76.6143033
+  id: charcros
+  title: Charles St & Cross St
+charhenr: !ruby/object:WhichBus::Stop
+  lat: 39.2787792
+  lon: -76.6144337
+  id: charhenr
+  title: Charles St & Henrietta St
+charlee: !ruby/object:WhichBus::Stop
+  lat: 39.2816895
+  lon: -76.6146352
+  id: charlee
+  title: Charles St & Lee St
+charlcon: !ruby/object:WhichBus::Stop
+  lat: 39.2839958
+  lon: -76.6145997
+  id: charlcon
+  title: Charles St & Conway St
+charlcam: !ruby/object:WhichBus::Stop
+  lat: 39.2852959
+  lon: -76.6147196
+  id: charlcam
+  title: Charles St & Pratt St
+lombchar: !ruby/object:WhichBus::Stop
+  lat: 39.2877502
+  lon: -76.6156787
+  id: lombchar
+  title: Lombard St & Charles St
+lombhopk: !ruby/object:WhichBus::Stop
+  lat: 39.2877
+  lon: -76.6172374
+  id: lombhopk
+  title: Lombard St & Hopkins Pl
+lombhowa: !ruby/object:WhichBus::Stop
+  lat: 39.2876409
+  lon: -76.6188174
+  id: lombhowa
+  title: Lombard St & Howard St
+lombeuta: !ruby/object:WhichBus::Stop
+  lat: 39.2875332
+  lon: -76.6212782
+  id: lombeuta
+  title: Lombard St & Eutaw St
+lombgree: !ruby/object:WhichBus::Stop
+  lat: 39.287457
+  lon: -76.6232024
+  id: lombgree
+  title: Lombard St & Green St
+lombmlk: !ruby/object:WhichBus::Stop
+  lat: 39.2872977
+  lon: -76.6274602
+  id: lombmlk
+  title: Lombard St & Martin Luther King Jr Blvd
+utrans: !ruby/object:WhichBus::Stop
+  lat: 39.28912
+  lon: -76.6242893
+  id: utrans
+  title: UMB Transit Center
+regdrgar_d: !ruby/object:WhichBus::Stop
+  lat: 38.989521
+  lon: -76.940772
+  id: regdrgar_d
+  title: Regents Drive Garage
+campmath: !ruby/object:WhichBus::Stop
+  lat: 38.9878567
+  lon: -76.9386198
+  id: campmath
+  title: Campus Dr at Math Slip
+paingree: !ruby/object:WhichBus::Stop
+  lat: 38.9879878
+  lon: -76.9340372
+  id: paingree
+  title: Paint Branch Pkwy and Greenhouse Rd (Outbound)
+painrhod: !ruby/object:WhichBus::Stop
+  lat: 38.9836054
+  lon: -76.9313264
+  id: painrhod
+  title: Paint Branch Pkwy and Rhode Island Ave (Outbound)
+cpmetro_d: !ruby/object:WhichBus::Stop
+  lat: 38.9781498
+  lon: -76.9275778
+  id: cpmetro_d
+  title: College Park - UMD Metro Station
+pain50th: !ruby/object:WhichBus::Stop
+  lat: 38.978934
+  lon: -76.9266479
+  id: pain50th
+  title: Paint Branch Pkwy and 50th Ave
+painrhod_in: !ruby/object:WhichBus::Stop
+  lat: 38.9835717
+  lon: -76.9309582
+  id: painrhod_in
+  title: Paint Branch Pkwy and Rhode Island Ave (Inbound)
+paingree_in: !ruby/object:WhichBus::Stop
+  lat: 38.9870503
+  lon: -76.9331601
+  id: paingree_in
+  title: Paint Branch Pkwy and Greenhouse Rd (Inbound)
+painglen: !ruby/object:WhichBus::Stop
+  lat: 38.9899499
+  lon: -76.9372499
+  id: painglen
+  title: Glenn L. Martin Wind Tunnel
+regegara_d: !ruby/object:WhichBus::Stop
+  lat: 38.9895251
+  lon: -76.94075
+  id: regegara_d
+  title: Regents Drive Garage
+campmath_m: !ruby/object:WhichBus::Stop
+  lat: 38.9878607
+  lon: -76.9386064
+  id: campmath_m
+  title: Campus Dr at Math Slip
+avwill: !ruby/object:WhichBus::Stop
+  lat: 38.9909815
+  lon: -76.93726
+  id: avwill
+  title: A.V. Williams Building
+techpain: !ruby/object:WhichBus::Stop
+  lat: 38.9925816
+  lon: -76.93727
+  id: techpain
+  title: Paint Branch Dr and Technology Dr
+shutbase_out: !ruby/object:WhichBus::Stop
+  lat: 38.9953471
+  lon: -76.9374986
+  id: shutbase_out
+  title: Shuttle-UM Base (Outbound)
+lot4_out: !ruby/object:WhichBus::Stop
+  lat: 38.9978973
+  lon: -76.9404168
+  id: lot4_out
+  title: Paint Branch Dr at Lot 4b (Outbound)
+metzgree: !ruby/object:WhichBus::Stop
+  lat: 39.0009112
+  lon: -76.9444714
+  id: metzgree
+  title: Metzerott Rd and Greenmead Dr
+gree_out: !ruby/object:WhichBus::Stop
+  lat: 39.0020477
+  lon: -76.9434987
+  id: gree_out
+  title: Greenmead Dr at Maryland 4-H (Outbound)
+cour500: !ruby/object:WhichBus::Stop
+  lat: 39.0030848
+  lon: -76.9425713
+  id: cour500
+  title: 'Courtyards #500'
+greemead_in: !ruby/object:WhichBus::Stop
+  lat: 39.0026768
+  lon: -76.9433279
+  id: greemead_in
+  title: Greenmead Dr at Maryland 4-H (Inbound)
+greemetz: !ruby/object:WhichBus::Stop
+  lat: 39.0010678
+  lon: -76.9446932
+  id: greemetz
+  title: Greenmeade Dr and Metzerott Rd
+lot4_in: !ruby/object:WhichBus::Stop
+  lat: 38.9978287
+  lon: -76.9404883
+  id: lot4_in
+  title: Paint Branch Dr at Lot 4b (Inbound)
+shutbase_in: !ruby/object:WhichBus::Stop
+  lat: 38.9953574
+  lon: -76.9375888
+  id: shutbase_in
+  title: Shuttle-UM Base (Inbound)
+regepain: !ruby/object:WhichBus::Stop
+  lat: 38.9936749
+  lon: -76.937734
+  id: regepain
+  title: Regents Dr and Paint Branch Dr
+regecomc_in: !ruby/object:WhichBus::Stop
+  lat: 38.99364
+  lon: -76.9398354
+  id: regecomc_in
+  title: Regents Drive at XFINITY Center
+regefarm_in: !ruby/object:WhichBus::Stop
+  lat: 38.9914801
+  lon: -76.9407099
+  id: regefarm_in
+  title: Regents Dr and Farm Dr
+stamsuhh_d: !ruby/object:WhichBus::Stop
+  lat: 38.9874519
+  lon: -76.9440396
+  id: stamsuhh_d
+  title: Stamp Student Union - Lot HH
+artsoci: !ruby/object:WhichBus::Stop
+  lat: 38.9856217
+  lon: -76.9469859
+  id: artsoci
+  title: Art/Sociology Building
+camplt1d: !ruby/object:WhichBus::Stop
+  lat: 38.9847485
+  lon: -76.9515967
+  id: camplt1d
+  title: Campus Dr at Lot 3
+umuc: !ruby/object:WhichBus::Stop
+  lat: 38.9853866
+  lon: -76.9544946
+  id: umuc
+  title: UMUC - College Park Marriott
+metzgree_out: !ruby/object:WhichBus::Stop
+  lat: 39.000896
+  lon: -76.9443869
+  id: metzgree_out
+  title: Metzerott Rd and Greenmeade Dr (Outbound)
+metzacre: !ruby/object:WhichBus::Stop
+  lat: 39.0016918
+  lon: -76.9489539
+  id: metzacre
+  title: Metzerott Rd and Acredale Ct
+metzsa: !ruby/object:WhichBus::Stop
+  lat: 39.0024267
+  lon: -76.9532444
+  id: metzsa
+  title: Metzerott Rd @ System Administration
+arch_ob: !ruby/object:WhichBus::Stop
+  lat: 39.0031633
+  lon: -76.9581295
+  id: arch_ob
+  title: Metzerott Rd at Archives II (Outbound)
+metzadel: !ruby/object:WhichBus::Stop
+  lat: 39.0025313
+  lon: -76.9658427
+  id: metzadel
+  title: Metzerott Rd and Adelphi Rd
+coolspri_out: !ruby/object:WhichBus::Stop
+  lat: 39.0033931
+  lon: -76.9731128
+  id: coolspri_out
+  title: Metzerott Rd and Riggs Rd (Outbound)
+metzpres: !ruby/object:WhichBus::Stop
+  lat: 39.0037077
+  lon: -76.9755602
+  id: metzpres
+  title: Metzerott Rd at Presidential Towers
+metznham_out: !ruby/object:WhichBus::Stop
+  lat: 39.0042629
+  lon: -76.9806787
+  id: metznham_out
+  title: Metzerott Rd and New Hampshire Ave (Outbound)
+nhamfox: !ruby/object:WhichBus::Stop
+  lat: 39.0080415
+  lon: -76.9797824
+  id: nhamfox
+  title: New Hampshire Ave and Fox St
+nhamadel_out: !ruby/object:WhichBus::Stop
+  lat: 39.0110759
+  lon: -76.9789397
+  id: nhamadel_out
+  title: New Hampshire Ave and Adelphi Road (Outbound)
+nhamoak_out: !ruby/object:WhichBus::Stop
+  lat: 39.0150626
+  lon: -76.9777991
+  id: nhamoak_out
+  title: New Hampshire Ave and Oakview Dr (Outbound)
+chateau_r: !ruby/object:WhichBus::Stop
+  lat: 39.01658
+  lon: -76.97613
+  id: chateau_r
+  title: Mt Pisgah Rd at Chateau Apartments
+nhamadel_in: !ruby/object:WhichBus::Stop
+  lat: 39.0116175
+  lon: -76.9790439
+  id: nhamadel_in
+  title: New Hampshire Ave and Adelphi Rd (Inbound)
+metznham_in: !ruby/object:WhichBus::Stop
+  lat: 39.0041002
+  lon: -76.9799322
+  id: metznham_in
+  title: Metzerott Rd and New Hampshire Ave (Inbound)
+metz1811: !ruby/object:WhichBus::Stop
+  lat: 39.0036704
+  lon: -76.9760639
+  id: metz1811
+  title: Metzerott Rd at The Delano Apts
+coolspri_in: !ruby/object:WhichBus::Stop
+  lat: 39.0033203
+  lon: -76.9732624
+  id: coolspri_in
+  title: Metzerott Rd and Riggs Rd (Inbound)
+metz24th: !ruby/object:WhichBus::Stop
+  lat: 39.0025893
+  lon: -76.9668555
+  id: metz24th
+  title: Metzerott Rd and 24th Ave
+metzarch: !ruby/object:WhichBus::Stop
+  lat: 39.00314
+  lon: -76.9590082
+  id: metzarch
+  title: Metzerott Rd at Archives II (Inbound)
+metzobse: !ruby/object:WhichBus::Stop
+  lat: 39.0025843
+  lon: -76.9545755
+  id: metzobse
+  title: Metzerott Rd @ UM Observatory
+metz34th: !ruby/object:WhichBus::Stop
+  lat: 39.0017387
+  lon: -76.9496925
+  id: metz34th
+  title: Metzerott Rd and 34th Ave
+metzgree_in: !ruby/object:WhichBus::Stop
+  lat: 39.0008996
+  lon: -76.9447876
+  id: metzgree_in
+  title: Metzerott Rd and University Blvd (Inbound)
+painrege_bus: !ruby/object:WhichBus::Stop
+  lat: 38.993499
+  lon: -76.9373896
+  id: painrege_bus
+  title: Paint Branch Dr and Regents Dr (Bus Shelter)
+painstad: !ruby/object:WhichBus::Stop
+  lat: 38.9902898
+  lon: -76.9373
+  id: painstad
+  title: Paint Branch Dr and Stadium Dr
+acphys: !ruby/object:WhichBus::Stop
+  lat: 38.9699561
+  lon: -76.9271071
+  id: acphys
+  title: River Road and Rivertech Court
+acphys_elli: !ruby/object:WhichBus::Stop
+  lat: 38.9718216
+  lon: -76.9301381
+  id: acphys_elli
+  title: American Center for Physics
+rayt: !ruby/object:WhichBus::Stop
+  lat: 38.9683562
+  lon: -76.9283283
+  id: rayt
+  title: Raytheon
+msqua: !ruby/object:WhichBus::Stop
+  lat: 38.9707573
+  lon: -76.9229913
+  id: msqua
+  title: M-Square
+usda: !ruby/object:WhichBus::Stop
+  lat: 38.9698864
+  lon: -76.9261353
+  id: usda
+  title: USDA
+rrmshel: !ruby/object:WhichBus::Stop
+  lat: 38.9722045
+  lon: -76.9283434
+  id: rrmshel
+  title: River Road at American Center for Physics
+stamsu_d: !ruby/object:WhichBus::Stop
+  lat: 38.9876099
+  lon: -76.9439449
+  id: stamsu_d
+  title: Stamp Student Union - Slip
+camplot3: !ruby/object:WhichBus::Stop
+  lat: 38.9846935
+  lon: -76.9511235
+  id: camplot3
+  title: Campus Drive at Lot 3
+rhoduni: !ruby/object:WhichBus::Stop
+  lat: 39.0005398
+  lon: -76.9249725
+  id: rhoduni
+  title: Rhode Island Ave and University Blvd (Outbound)
+rhodcher: !ruby/object:WhichBus::Stop
+  lat: 39.0022926
+  lon: -76.9244817
+  id: rhodcher
+  title: Rhode Island Ave and Cherokee St (Outbound)
+rhodindi: !ruby/object:WhichBus::Stop
+  lat: 39.0058031
+  lon: -76.9235376
+  id: rhodindi
+  title: Rhode Island Ave and Fox St (Outbound)
+rhodholl: !ruby/object:WhichBus::Stop
+  lat: 39.0106875
+  lon: -76.922224
+  id: rhodholl
+  title: Rhode Island Ave and Hollywood Rd (Outbound)
+hollshop: !ruby/object:WhichBus::Stop
+  lat: 39.0137553
+  lon: -76.9213963
+  id: hollshop
+  title: Rhode Island Ave and Hollywood Shopping Ctr
+edgerhod: !ruby/object:WhichBus::Stop
+  lat: 39.0161017
+  lon: -76.9212053
+  id: edgerhod
+  title: Edgewood Rd and Rhode Island Ave (Outbound)
+edge49th: !ruby/object:WhichBus::Stop
+  lat: 39.0160622
+  lon: -76.9242198
+  id: edge49th
+  title: Edgewood Rd and 49th Ave (Outbound)
+cpmark: !ruby/object:WhichBus::Stop
+  lat: 39.0160183
+  lon: -76.9301973
+  id: cpmark
+  title: Cherry Hill Rd at College Park Marketplace
+cher9348: !ruby/object:WhichBus::Stop
+  lat: 39.016946
+  lon: -76.9393952
+  id: cher9348
+  title: Seven Springs Apts at 9348 Cherry Hill Rd
+ssvill: !ruby/object:WhichBus::Stop
+  lat: 39.0159991
+  lon: -76.9394283
+  id: ssvill
+  title: Seven Springs Apts at 9310 Cherry Hill Rd
+cher9308: !ruby/object:WhichBus::Stop
+  lat: 39.0178782
+  lon: -76.9376829
+  id: cher9308
+  title: Seven Springs Apts at 9308 Cherry Hill Rd
+cher47th: !ruby/object:WhichBus::Stop
+  lat: 39.0165878
+  lon: -76.9321727
+  id: cher47th
+  title: Cherry Hill Rd and 47th Ave
+edge49th_in: !ruby/object:WhichBus::Stop
+  lat: 39.0159499
+  lon: -76.924241
+  id: edge49th_in
+  title: Edgewood Rd and 49th Ave (Inbound)
+edgerhod_in: !ruby/object:WhichBus::Stop
+  lat: 39.01597
+  lon: -76.92123
+  id: edgerhod_in
+  title: Edgewood Rd and Rhode Island Ave (Inbound)
+rhodmusk: !ruby/object:WhichBus::Stop
+  lat: 39.0136638
+  lon: -76.9215789
+  id: rhodmusk
+  title: Rhode Island Avenue and Muskogee Street
+rhodholl_in: !ruby/object:WhichBus::Stop
+  lat: 39.0106131
+  lon: -76.9223391
+  id: rhodholl_in
+  title: Rhode Island Ave and Hollywood Rd (Inbound)
+rhodfox: !ruby/object:WhichBus::Stop
+  lat: 39.0064778
+  lon: -76.923492
+  id: rhodfox
+  title: Rhode Island Avenue and Fox Street (Inbound)
+rhodcher_in: !ruby/object:WhichBus::Stop
+  lat: 39.0027212
+  lon: -76.9244569
+  id: rhodcher_in
+  title: Rhode Island Ave and Cherokee St (Inbound)
+rhoduni_in: !ruby/object:WhichBus::Stop
+  lat: 38.9997593
+  lon: -76.9252729
+  id: rhoduni_in
+  title: Rhode Island Ave and University Blvd (Inbound)
+univtula: !ruby/object:WhichBus::Stop
+  lat: 38.9854542
+  lon: -76.9583269
+  id: univtula
+  title: University Blvd and Tulane Dr
+univshop_out: !ruby/object:WhichBus::Stop
+  lat: 38.9846857
+  lon: -76.9666258
+  id: univshop_out
+  title: University Blvd at Adelphi Plaza
+univguil_out: !ruby/object:WhichBus::Stop
+  lat: 38.984095
+  lon: -76.9725856
+  id: univguil_out
+  title: University Blvd and Guilford Rd (Outbound)
+univrigg_out: !ruby/object:WhichBus::Stop
+  lat: 38.9843219
+  lon: -76.9799761
+  id: univrigg_out
+  title: University Blvd and Riggs Rd (Outbound)
+univnham: !ruby/object:WhichBus::Stop
+  lat: 38.9877907
+  lon: -76.9858326
+  id: univnham
+  title: University Blvd and New Hampshire Ave
+univrite: !ruby/object:WhichBus::Stop
+  lat: 38.9903278
+  lon: -76.989042
+  id: univrite
+  title: University Blvd at Langley Park Ctr
+merrilock: !ruby/object:WhichBus::Stop
+  lat: 38.9925977
+  lon: -76.9916907
+  id: merrilock
+  title: Merrimac Dr and Lockney Ave
+carrchest: !ruby/object:WhichBus::Stop
+  lat: 38.9899268
+  lon: -76.9935629
+  id: carrchest
+  title: Carroll Ave and Chester St
+carrglen: !ruby/object:WhichBus::Stop
+  lat: 38.9879584
+  lon: -76.994382
+  id: carrglen
+  title: Carroll Ave and Glenside Dr
+carrgarl: !ruby/object:WhichBus::Stop
+  lat: 38.9862204
+  lon: -76.9963195
+  id: carrgarl
+  title: Caroll Ave and Garland Ave (Outbound)
+flowcarr: !ruby/object:WhichBus::Stop
+  lat: 38.9853069
+  lon: -76.9988477
+  id: flowcarr
+  title: Flower Ave and Carroll Ave (Outbound)
+flowdivi: !ruby/object:WhichBus::Stop
+  lat: 38.9867605
+  lon: -76.9998514
+  id: flowdivi
+  title: Flower Ave at Washington Adventist University (Outbound)
+flowkenne: !ruby/object:WhichBus::Stop
+  lat: 38.9895808
+  lon: -77.0013728
+  id: flowkenne
+  title: Flower Ave and Kennebec Ave (Outbound)
+flowhuds: !ruby/object:WhichBus::Stop
+  lat: 38.9924554
+  lon: -77.0021792
+  id: flowhuds
+  title: Flower Ave and Hudson (Outbound)
+flowdome: !ruby/object:WhichBus::Stop
+  lat: 38.9966735
+  lon: -77.0031553
+  id: flowdome
+  title: Flower Ave and Domer Ave (Outbound)
+flowplym: !ruby/object:WhichBus::Stop
+  lat: 39.0015447
+  lon: -77.0045323
+  id: flowplym
+  title: Flower Ave and Plymouth St
+waynslig_out: !ruby/object:WhichBus::Stop
+  lat: 38.9996589
+  lon: -77.0104085
+  id: waynslig_out
+  title: Wayne Ave and Sligo Creek Pkwy (Outbound)
+wayndale_out: !ruby/object:WhichBus::Stop
+  lat: 38.9993802
+  lon: -77.0172814
+  id: wayndale_out
+  title: Wayne Ave and Dale Dr (Outbound)
+waynwhol: !ruby/object:WhichBus::Stop
+  lat: 38.9959807
+  lon: -77.0235252
+  id: waynwhol
+  title: Wayne Ave and Fenton St (Outbound)
+bonidix: !ruby/object:WhichBus::Stop
+  lat: 38.9934522
+  lon: -77.0274078
+  id: bonidix
+  title: Bonifant Street and Dixon Avenue
+ssmetro: !ruby/object:WhichBus::Stop
+  lat: 38.993673
+  lon: -77.029742
+  id: ssmetro
+  title: Silver Spring Metro Station
+waynfent: !ruby/object:WhichBus::Stop
+  lat: 38.9952298
+  lon: -77.0245902
+  id: waynfent
+  title: Wayne Ave and Fenton St (Inbound)
+wayndale_in: !ruby/object:WhichBus::Stop
+  lat: 38.9992414
+  lon: -77.0177496
+  id: wayndale_in
+  title: Wayne Ave and Dale Dr (Inbound)
+waynslig_in: !ruby/object:WhichBus::Stop
+  lat: 38.9995905
+  lon: -77.010017
+  id: waynslig_in
+  title: Wayne Ave and Sligo Creek Pkwy (Inbound)
+flowplym_in: !ruby/object:WhichBus::Stop
+  lat: 39.001575
+  lon: -77.0046644
+  id: flowplym_in
+  title: Flower Ave and Plymouth St (Inbound)
+flowdome_in: !ruby/object:WhichBus::Stop
+  lat: 38.9962614
+  lon: -77.0031528
+  id: flowdome_in
+  title: Flower Ave and Domer Ave (Inbound)
+flowhuds_in: !ruby/object:WhichBus::Stop
+  lat: 38.9925543
+  lon: -77.00228
+  id: flowhuds_in
+  title: Flower Ave and Hudson (Inbound)
+flowkenn_in: !ruby/object:WhichBus::Stop
+  lat: 38.9897144
+  lon: -77.0015479
+  id: flowkenn_in
+  title: Flower Ave and Kennebec (Inbound)
+flowdivi_inn: !ruby/object:WhichBus::Stop
+  lat: 38.9870475
+  lon: -77.0001883
+  id: flowdivi_inn
+  title: Flower Ave at Washington Adventist University (Inbound)
+flowcarr_in: !ruby/object:WhichBus::Stop
+  lat: 38.9852146
+  lon: -76.9989177
+  id: flowcarr_in
+  title: Flower Ave and Carroll Ave (Inbound)
+carrgarl_in: !ruby/object:WhichBus::Stop
+  lat: 38.9862373
+  lon: -76.9961839
+  id: carrgarl_in
+  title: Carroll Ave and Garland Ave (Inbound)
+carranne_in: !ruby/object:WhichBus::Stop
+  lat: 38.9876429
+  lon: -76.994607
+  id: carranne_in
+  title: Carroll Ave and Anne St
+carrwild_in: !ruby/object:WhichBus::Stop
+  lat: 38.9897314
+  lon: -76.9935114
+  id: carrwild_in
+  title: Carroll Ave and Wildwood Dr
+merriuniv: !ruby/object:WhichBus::Stop
+  lat: 38.9924899
+  lon: -76.99173
+  id: merriuniv
+  title: Merrimac Dr and University Blvd
+univhamp: !ruby/object:WhichBus::Stop
+  lat: 38.9904317
+  lon: -76.9894416
+  id: univhamp
+  title: University Blvd at Hampshire Langley Shopping Ctr
+univ14th: !ruby/object:WhichBus::Stop
+  lat: 38.9872511
+  lon: -76.9852817
+  id: univ14th
+  title: University Blvd and 14th Ave
+univhech: !ruby/object:WhichBus::Stop
+  lat: 38.9847308
+  lon: -76.9810314
+  id: univhech
+  title: University Blvd and Riggs Road (Inbound)
+univcity: !ruby/object:WhichBus::Stop
+  lat: 38.9835823
+  lon: -76.9761898
+  id: univcity
+  title: University Blvd and Guilford Rd (Inbound)
+univ25th_in: !ruby/object:WhichBus::Stop
+  lat: 38.9844296
+  lon: -76.9674135
+  id: univ25th_in
+  title: University Blvd and 25th Ave
+univgrad: !ruby/object:WhichBus::Stop
+  lat: 38.9853975
+  lon: -76.9579038
+  id: univgrad
+  title: University Blvd at Graduate Hills
+cspa_main: !ruby/object:WhichBus::Stop
+  lat: 38.991789
+  lon: -76.9502191
+  id: cspa_main
+  title: Stadium Drive and University Boulevard
+stadgara: !ruby/object:WhichBus::Stop
+  lat: 38.991829
+  lon: -76.947669
+  id: stadgara
+  title: Stadium Drive Garage
+stadvtho: !ruby/object:WhichBus::Stop
+  lat: 38.9906045
+  lon: -76.9454181
+  id: stadvtho
+  title: Varsity Team House
+gradhill: !ruby/object:WhichBus::Stop
+  lat: 38.9846606
+  lon: -76.9555421
+  id: gradhill
+  title: Adelphi Rd at Graduate Hills Apts
+adelwell_out: !ruby/object:WhichBus::Stop
+  lat: 38.9795417
+  lon: -76.9545905
+  id: adelwell_out
+  title: Adelphi Rd and Wells Blvd
+adel_nwhs: !ruby/object:WhichBus::Stop
+  lat: 38.9754953
+  lon: -76.952102
+  id: adel_nwhs
+  title: Adelphi Rd at Northwestern HS
+toleadel: !ruby/object:WhichBus::Stop
+  lat: 38.97007
+  lon: -76.9497998
+  id: toleadel
+  title: Toledo Rd and Adelphi Rd
+tolebelc: !ruby/object:WhichBus::Stop
+  lat: 38.9694942
+  lon: -76.9540592
+  id: tolebelc
+  title: Toledo and Belcrest Rd (Outbound)
+targ: !ruby/object:WhichBus::Stop
+  lat: 38.96821
+  lon: -76.95417
+  id: targ
+  title: The Mall at Prince George's
+pgmetro_out: !ruby/object:WhichBus::Stop
+  lat: 38.9658812
+  lon: -76.954134
+  id: pgmetro_out
+  title: Belcrest Rd and East-West Hwy
+39thquee: !ruby/object:WhichBus::Stop
+  lat: 38.96391
+  lon: -76.9503707
+  id: 39thquee
+  title: Queensbury Rd and 39th Pl
+42ndquee: !ruby/object:WhichBus::Stop
+  lat: 38.9635641
+  lon: -76.9462603
+  id: 42ndquee
+  title: 42nd Ave and Queensbury Rd
+42ndogle: !ruby/object:WhichBus::Stop
+  lat: 38.9596743
+  lon: -76.9465446
+  id: 42ndogle
+  title: 42nd Ave and Oglethorpe St
+42ndmadi: !ruby/object:WhichBus::Stop
+  lat: 38.9580062
+  lon: -76.9467596
+  id: 42ndmadi
+  title: 42nd Ave and Madison St
+42ndjeff: !ruby/object:WhichBus::Stop
+  lat: 38.9553894
+  lon: -76.9457762
+  id: 42ndjeff
+  title: 42nd Ave and Jefferson St
+42ndfarr: !ruby/object:WhichBus::Stop
+  lat: 38.9517499
+  lon: -76.944358
+  id: 42ndfarr
+  title: Farragut St and 42nd Pl
+farrrhod: !ruby/object:WhichBus::Stop
+  lat: 38.95166
+  lon: -76.94123
+  id: farrrhod
+  title: Farragut St and Rhode Island Ave
+baltgall: !ruby/object:WhichBus::Stop
+  lat: 38.9530736
+  lon: -76.9404606
+  id: baltgall
+  title: Baltimore Ave and Gallatin St
+balthami: !ruby/object:WhichBus::Stop
+  lat: 38.9542751
+  lon: -76.9403194
+  id: balthami
+  title: Baltimore Ave and Hamilton St
+baltlong: !ruby/object:WhichBus::Stop
+  lat: 38.9567242
+  lon: -76.9400419
+  id: baltlong
+  title: Baltimore Ave and Longfellow St
+baltogle: !ruby/object:WhichBus::Stop
+  lat: 38.9593855
+  lon: -76.9397604
+  id: baltogle
+  title: Baltimore Ave and Oglethorpe St
+44thquee: !ruby/object:WhichBus::Stop
+  lat: 38.9632582
+  lon: -76.9404546
+  id: 44thquee
+  title: Queensbury Rd and 44th Pl
+quee42nd: !ruby/object:WhichBus::Stop
+  lat: 38.9637691
+  lon: -76.9450616
+  id: quee42nd
+  title: Queensbury Rd and 42nd Pl
+belcquch: !ruby/object:WhichBus::Stop
+  lat: 38.9643701
+  lon: -76.9527003
+  id: belcquch
+  title: Belcrest Rd and Queens Chapel Rd
+pgmetro_in: !ruby/object:WhichBus::Stop
+  lat: 38.9664048
+  lon: -76.957585
+  id: pgmetro_in
+  title: PG Plaza Metro Station
+pgcc: !ruby/object:WhichBus::Stop
+  lat: 38.9681505
+  lon: -76.9539399
+  id: pgcc
+  title: Prince George's Community College
+belctole: !ruby/object:WhichBus::Stop
+  lat: 38.9698461
+  lon: -76.9532532
+  id: belctole
+  title: Toledo Rd and Belcrest Rd (Inbound)
+adeltole: !ruby/object:WhichBus::Stop
+  lat: 38.970625
+  lon: -76.9490294
+  id: adeltole
+  title: Adelphi Rd and Toledo Rd
+adelvbur: !ruby/object:WhichBus::Stop
+  lat: 38.9752806
+  lon: -76.9517563
+  id: adelvbur
+  title: Adelphi Rd and Van Buren St
+adelwell_in: !ruby/object:WhichBus::Stop
+  lat: 38.9792302
+  lon: -76.9543072
+  id: adelwell_in
+  title: Adelphi Rd and Wells Pkwy (Inbound)
+adeltula: !ruby/object:WhichBus::Stop
+  lat: 38.9846316
+  lon: -76.9553382
+  id: adeltula
+  title: Adelphi Rd and Campus Dr
+wico: !ruby/object:WhichBus::Stop
+  lat: 38.9841221
+  lon: -76.9452052
+  id: wico
+  title: Wicomico Hall
+lotu4: !ruby/object:WhichBus::Stop
+  lat: 38.9825635
+  lon: -76.9448912
+  id: lotu4
+  title: Preinkert Drive at Lot MV
+guilknox: !ruby/object:WhichBus::Stop
+  lat: 38.9811315
+  lon: -76.9445268
+  id: guilknox
+  title: Mowatt Lane and Knox Rd
+rossknox_d: !ruby/object:WhichBus::Stop
+  lat: 38.9810501
+  lon: -76.9416755
+  id: rossknox_d
+  title: Knox Rd and Rossburg Dr
+collpktw: !ruby/object:WhichBus::Stop
+  lat: 38.9810953
+  lon: -76.9405331
+  id: collpktw
+  title: College Park Towers
+collpksh: !ruby/object:WhichBus::Stop
+  lat: 38.9809164
+  lon: -76.9387176
+  id: collpksh
+  title: College Park Shopping Ctr (Outbound)
+baltritc: !ruby/object:WhichBus::Stop
+  lat: 38.985129
+  lon: -76.9371704
+  id: baltritc
+  title: Ritchie Coliseum
+baltpbra: !ruby/object:WhichBus::Stop
+  lat: 38.9870785
+  lon: -76.9360791
+  id: baltpbra
+  title: Baltimore Ave and Paint Branch Pkwy
+univview: !ruby/object:WhichBus::Stop
+  lat: 38.9923923
+  lon: -76.9340438
+  id: univview
+  title: University View
+baltvars: !ruby/object:WhichBus::Stop
+  lat: 38.9908271
+  lon: -76.9340382
+  id: baltvars
+  title: Baltimore Ave at The Varsity
+mcirc: !ruby/object:WhichBus::Stop
+  lat: 38.9877022
+  lon: -76.9394992
+  id: mcirc
+  title: Campus Dr at M Circle
+lot1: !ruby/object:WhichBus::Stop
+  lat: 38.9872099
+  lon: -76.9481578
+  id: lot1
+  title: Union Dr at Lot 1b
+cspac: !ruby/object:WhichBus::Stop
+  lat: 38.990882
+  lon: -76.949374
+  id: cspac
+  title: Valley Drive at Stadium Drive Garage
+elk: !ruby/object:WhichBus::Stop
+  lat: 38.9924755
+  lon: -76.9485807
+  id: elk
+  title: Elkton Hall
+hage: !ruby/object:WhichBus::Stop
+  lat: 38.99297
+  lon: -76.9475984
+  id: hage
+  title: Hagerstown Hall
+laplat: !ruby/object:WhichBus::Stop
+  lat: 38.992218
+  lon: -76.94563
+  id: laplat
+  title: La Plata Hall
+camb: !ruby/object:WhichBus::Stop
+  lat: 38.9914209
+  lon: -76.9430212
+  id: camb
+  title: Cambridge Hall
+mitc_out: !ruby/object:WhichBus::Stop
+  lat: 38.9866487
+  lon: -76.9401999
+  id: mitc_out
+  title: Mitchell Building (Outbound)
+memo_out: !ruby/object:WhichBus::Stop
+  lat: 38.9848194
+  lon: -76.9401499
+  id: memo_out
+  title: Memorial Chapel (Outbound)
+mont_out: !ruby/object:WhichBus::Stop
+  lat: 38.9824312
+  lon: -76.9391531
+  id: mont_out
+  title: Montgomery Hall (Outbound)
+baltritc_s: !ruby/object:WhichBus::Stop
+  lat: 38.9852774
+  lon: -76.9370967
+  id: baltritc_s
+  title: Ritchie Coliseum
+mcirc_s: !ruby/object:WhichBus::Stop
+  lat: 38.987701
+  lon: -76.9395049
+  id: mcirc_s
+  title: Campus Dr at M Circle
+hoff: !ruby/object:WhichBus::Stop
+  lat: 38.9880686
+  lon: -76.94539
+  id: hoff
+  title: Hoff Theater
+uniofiel: !ruby/object:WhichBus::Stop
+  lat: 38.9886932
+  lon: -76.94531
+  id: uniofiel
+  title: Union Ln and Fieldhouse Dr
+biofield: !ruby/object:WhichBus::Stop
+  lat: 38.989258
+  lon: -76.9421093
+  id: biofield
+  title: BioSciences Research Building
+regestad: !ruby/object:WhichBus::Stop
+  lat: 38.9900126
+  lon: -76.9406498
+  id: regestad
+  title: Regents Dr and Stadium Dr
+regefarm_out: !ruby/object:WhichBus::Stop
+  lat: 38.9912627
+  lon: -76.9406599
+  id: regefarm_out
+  title: Regents Dr and Farm Dr (Outbound)
+regecomc_out: !ruby/object:WhichBus::Stop
+  lat: 38.9934731
+  lon: -76.9399273
+  id: regecomc_out
+  title: Regents Drive at XFINITY Center (Outbound)
+regepain_out: !ruby/object:WhichBus::Stop
+  lat: 38.9936299
+  lon: -76.9374809
+  id: regepain_out
+  title: Regents Dr and Paint Branch Dr (Outbound)
+cour300: !ruby/object:WhichBus::Stop
+  lat: 39.0013104
+  lon: -76.9419255
+  id: cour300
+  title: 'Courtyards #300'
+cour400: !ruby/object:WhichBus::Stop
+  lat: 39.001867
+  lon: -76.94271
+  id: cour400
+  title: 'Courtyards #400'
+gree: !ruby/object:WhichBus::Stop
+  lat: 39.0026811
+  lon: -76.9433266
+  id: gree
+  title: Greenmeade Dr at Maryland 4-H (Inbound)
+lot4i_r: !ruby/object:WhichBus::Stop
+  lat: 38.9978248
+  lon: -76.9404829
+  id: lot4i_r
+  title: Paint Branch Dr at Lot 4b (Inbound)
+univclub: !ruby/object:WhichBus::Stop
+  lat: 38.990652
+  lon: -76.929806
+  id: univclub
+  title: University Club Apartments
+berwuniv: !ruby/object:WhichBus::Stop
+  lat: 38.9924806
+  lon: -76.9327114
+  id: berwuniv
+  title: Berwyn House Rd and University Blvd
+varsity: !ruby/object:WhichBus::Stop
+  lat: 38.9908309
+  lon: -76.9340079
+  id: varsity
+  title: Baltimore Ave at The Varsity
+dent: !ruby/object:WhichBus::Stop
+  lat: 38.9919386
+  lon: -76.950087
+  id: dent
+  title: Denton Hall
+tula3424: !ruby/object:WhichBus::Stop
+  lat: 38.9849359
+  lon: -76.9559844
+  id: tula3424
+  title: Graduate Hills at 3424 Tulane Dr
+tula3410: !ruby/object:WhichBus::Stop
+  lat: 38.9847285
+  lon: -76.9573551
+  id: tula3410
+  title: Graduate Hills at 3410 Tulane Dr
+tula3403: !ruby/object:WhichBus::Stop
+  lat: 38.9846895
+  lon: -76.9583155
+  id: tula3403
+  title: Graduate Hills at 3404 Tulane Dr
+camplot19: !ruby/object:WhichBus::Stop
+  lat: 38.9852716
+  lon: -76.9543985
+  id: camplot19
+  title: Campus Dr at UMUC Lot 19
+univbapt: !ruby/object:WhichBus::Stop
+  lat: 38.9847199
+  lon: -76.9517798
+  id: univbapt
+  title: University Methodist Church
+hillmunc: !ruby/object:WhichBus::Stop
+  lat: 38.9829718
+  lon: -76.9481942
+  id: hillmunc
+  title: Van Munching Hall (Inbound)
+lds: !ruby/object:WhichBus::Stop
+  lat: 38.9822216
+  lon: -76.9471323
+  id: lds
+  title: LDS Institute of Religion
+cathsc: !ruby/object:WhichBus::Stop
+  lat: 38.9813077
+  lon: -76.9451744
+  id: cathsc
+  title: Catholic Student Center
+sccomm1_2: !ruby/object:WhichBus::Stop
+  lat: 38.9823584
+  lon: -76.9434595
+  id: sccomm1_2
+  title: South Campus Commons 1 & 2
+guilross: !ruby/object:WhichBus::Stop
+  lat: 38.9798386
+  lon: -76.9427969
+  id: guilross
+  title: Guilford Dr and Rossburg Dr
+4315rwlt: !ruby/object:WhichBus::Stop
+  lat: 38.9789141
+  lon: -76.9415949
+  id: 4315rwlt
+  title: Graduate Gardens at 4315 Rowalt Dr
+4327rwlt: !ruby/object:WhichBus::Stop
+  lat: 38.9783
+  lon: -76.9401925
+  id: 4327rwlt
+  title: Graduate Gardens at 4327 Rowalt Dr
+balthart_in: !ruby/object:WhichBus::Stop
+  lat: 38.9794684
+  lon: -76.93783
+  id: balthart_in
+  title: Baltimore Ave and Hartwick Rd (Inbound)
+mont_in: !ruby/object:WhichBus::Stop
+  lat: 38.9824959
+  lon: -76.9391289
+  id: mont_in
+  title: Montgomery Hall (Inbound)
+memo_in: !ruby/object:WhichBus::Stop
+  lat: 38.9841406
+  lon: -76.9400506
+  id: memo_in
+  title: Memorial Chapel (Inbound)
+shoebuil: !ruby/object:WhichBus::Stop
+  lat: 38.9838654
+  lon: -76.9421853
+  id: shoebuil
+  title: Shoemaker Building
+loty: !ruby/object:WhichBus::Stop
+  lat: 38.9843599
+  lon: -76.9417399
+  id: loty
+  title: Lot Y and Chapel Dr
+mitc_in: !ruby/object:WhichBus::Stop
+  lat: 38.9863791
+  lon: -76.9401205
+  id: mitc_in
+  title: Mitchell Building (Inbound)
+painstad_r: !ruby/object:WhichBus::Stop
+  lat: 38.9899499
+  lon: -76.9372499
+  id: painstad_r
+  title: Glenn L. Martin Wind Tunnel
+stamsu_m: !ruby/object:WhichBus::Stop
+  lat: 38.9876098
+  lon: -76.9439438
+  id: stamsu_m
+  title: Stamp Student Union - Slip
+knoxyale: !ruby/object:WhichBus::Stop
+  lat: 38.9805405
+  lon: -76.936549
+  id: knoxyale
+  title: Knox Road and Yale Avenue
+prinknox: !ruby/object:WhichBus::Stop
+  lat: 38.9801973
+  lon: -76.9350561
+  id: prinknox
+  title: Knox Rd and Princeton Ave
+hopkknox: !ruby/object:WhichBus::Stop
+  lat: 38.9798615
+  lon: -76.933551
+  id: hopkknox
+  title: Knox Rd and Hopkins Ave
+knoxrhod: !ruby/object:WhichBus::Stop
+  lat: 38.9797197
+  lon: -76.9322293
+  id: knoxrhod
+  title: Knox Rd and Rhode Island Ave
+rhodcoll: !ruby/object:WhichBus::Stop
+  lat: 38.9808524
+  lon: -76.9318143
+  id: rhodcoll
+  title: Rhode Island Ave and College Ave
+rhodnorw_s: !ruby/object:WhichBus::Stop
+  lat: 38.9820936
+  lon: -76.9313363
+  id: rhodnorw_s
+  title: Rhode Island Ave and Norwich Rd
+rossrhod: !ruby/object:WhichBus::Stop
+  lat: 38.9834895
+  lon: -76.9315626
+  id: rossrhod
+  title: Rossborough Ln and Rhode Island Ave
+5frat: !ruby/object:WhichBus::Stop
+  lat: 38.9846402
+  lon: -76.9341631
+  id: 5frat
+  title: 'Fraternity Row #5'
+leoncomm_out: !ruby/object:WhichBus::Stop
+  lat: 38.98371
+  lon: -76.9338
+  id: leoncomm_out
+  title: Leonardtown Community Center
+11frat: !ruby/object:WhichBus::Stop
+  lat: 38.983016
+  lon: -76.9354865
+  id: 11frat
+  title: 'Fraternity Row #11'
+yalecoll: !ruby/object:WhichBus::Stop
+  lat: 38.9815053
+  lon: -76.9364056
+  id: yalecoll
+  title: Yale Ave and Lehigh Rd
+yaleknox_ib: !ruby/object:WhichBus::Stop
+  lat: 38.9806721
+  lon: -76.9368328
+  id: yaleknox_ib
+  title: Yale Avenue and Knox Road
+collpksh_ib: !ruby/object:WhichBus::Stop
+  lat: 38.9810016
+  lon: -76.9389269
+  id: collpksh_ib
+  title: College Park Shopping Center (Inbound)
+scam34: !ruby/object:WhichBus::Stop
+  lat: 38.9811409
+  lon: -76.9408182
+  id: scam34
+  title: South Campus Commons 3 and 4
+knoxross_ib: !ruby/object:WhichBus::Stop
+  lat: 38.9810946
+  lon: -76.9418168
+  id: knoxross_ib
+  title: Knox Road and Rossburg Drive (Inbound)
+knoxguil_ib: !ruby/object:WhichBus::Stop
+  lat: 38.9811178
+  lon: -76.943995
+  id: knoxguil_ib
+  title: Knox Road and Guilford Drive
+mowaprei: !ruby/object:WhichBus::Stop
+  lat: 38.9813106
+  lon: -76.9447626
+  id: mowaprei
+  title: Mowatt Lane and Preinkert Drive
+sccomm5_6: !ruby/object:WhichBus::Stop
+  lat: 38.9823877
+  lon: -76.9448463
+  id: sccomm5_6
+  title: South Campus Commons 5 and 6
+lota: !ruby/object:WhichBus::Stop
+  lat: 38.9842509
+  lon: -76.9451946
+  id: lota
+  title: Preinkert Drive at Lot A
+somehall: !ruby/object:WhichBus::Stop
+  lat: 38.9847538
+  lon: -76.9458235
+  id: somehall
+  title: Somerset Hall
+annearun: !ruby/object:WhichBus::Stop
+  lat: 38.9859447
+  lon: -76.9469495
+  id: annearun
+  title: Anne Arundel Hall
+umbi: !ruby/object:WhichBus::Stop
+  lat: 39.0918099
+  lon: -77.1993769
+  id: umbi
+  title: Shady Grove Parking Lot 1
+univshad: !ruby/object:WhichBus::Stop
+  lat: 39.0935392
+  lon: -77.2015946
+  id: univshad
+  title: The Universities at Shady Grove
+guilrowa: !ruby/object:WhichBus::Stop
+  lat: 38.9782112
+  lon: -76.9395
+  id: guilrowa
+  title: Guilford Drive and Rowalt Drive (Outbound)
+baltfrat: !ruby/object:WhichBus::Stop
+  lat: 38.983933
+  lon: -76.9376076
+  id: baltfrat
+  title: Fraternity Row
+berwbalt: !ruby/object:WhichBus::Stop
+  lat: 38.9924806
+  lon: -76.9327116
+  id: berwbalt
+  title: Berwyn House Rd and Baltimore Ave
+baltview: !ruby/object:WhichBus::Stop
+  lat: 38.9923297
+  lon: -76.9333501
+  id: baltview
+  title: Baltimore Ave at University View
+compspac: !ruby/object:WhichBus::Stop
+  lat: 38.9906069
+  lon: -76.9420699
+  id: compspac
+  title: Computer and Space Sciences Building
+varsfiel: !ruby/object:WhichBus::Stop
+  lat: 38.9906423
+  lon: -76.9453829
+  id: varsfiel
+  title: Varsity Practice Field
+ellihall: !ruby/object:WhichBus::Stop
+  lat: 38.9917914
+  lon: -76.9474995
+  id: ellihall
+  title: Ellicott Hall
+lot_6: !ruby/object:WhichBus::Stop
+  lat: 38.9952995
+  lon: -76.9443944
+  id: lot_6
+  title: Lot 6 at Terrapin Trail Garage
+comccent: !ruby/object:WhichBus::Stop
+  lat: 38.99526
+  lon: -76.9427148
+  id: comccent
+  title: XFINITY Center Student Entrance
+lot4_rear: !ruby/object:WhichBus::Stop
+  lat: 38.9968918
+  lon: -76.942019
+  id: lot4_rear
+  title: Lot 4b (Rear)
+chesbuil: !ruby/object:WhichBus::Stop
+  lat: 38.9979313
+  lon: -76.9418896
+  id: chesbuil
+  title: Chesapeake Building
+univpkth: !ruby/object:WhichBus::Stop
+  lat: 38.9725018
+  lon: -76.9380183
+  id: univpkth
+  title: Baltimore Ave at University Park Town Hall
+baltunde: !ruby/object:WhichBus::Stop
+  lat: 38.9686098
+  lon: -76.9385684
+  id: baltunde
+  title: Baltimore Ave and Underwood St
+ewhwbeal: !ruby/object:WhichBus::Stop
+  lat: 38.9641206
+  lon: -76.9379016
+  id: ewhwbeal
+  title: East-West Hwy and W Beale Cir
+ewhwtayl_out: !ruby/object:WhichBus::Stop
+  lat: 38.9623242
+  lon: -76.9294593
+  id: ewhwtayl_out
+  title: East-West Hwy and Taylor Rd (Outbound)
+rivstber_n: !ruby/object:WhichBus::Stop
+  lat: 38.9599499
+  lon: -76.9156512
+  id: rivstber_n
+  title: Riverdale Rd at St. Bernard's Church
+rivd61st: !ruby/object:WhichBus::Stop
+  lat: 38.9604936
+  lon: -76.9122848
+  id: rivd61st
+  title: Riverdale Rd and 61st Place
+riveeast: !ruby/object:WhichBus::Stop
+  lat: 38.9610499
+  lon: -76.9067853
+  id: riveeast
+  title: Riverdale Rd and Eastpine Dr
+rive67th: !ruby/object:WhichBus::Stop
+  lat: 38.9613322
+  lon: -76.9028455
+  id: rive67th
+  title: Riverdale Rd and 67th Ave
+riveaubu: !ruby/object:WhichBus::Stop
+  lat: 38.9642799
+  lon: -76.8971077
+  id: riveaubu
+  title: Riverdale Rd and Auburn Ave
+rivemart: !ruby/object:WhichBus::Stop
+  lat: 38.9634325
+  lon: -76.8893633
+  id: rivemart
+  title: Riverdale Rd and Martins Ln
+rivefinn: !ruby/object:WhichBus::Stop
+  lat: 38.9620909
+  lon: -76.8867462
+  id: rivefinn
+  title: Riverdale Rd and Finns Ln
+rivelamo: !ruby/object:WhichBus::Stop
+  lat: 38.9613655
+  lon: -76.8826626
+  id: rivelamo
+  title: Riverdale Rd and Lamont Dr
+founclap: !ruby/object:WhichBus::Stop
+  lat: 38.9600285
+  lon: -76.8795845
+  id: founclap
+  title: Riverdale Rd at Fountain Club Apartments
+rivemaho: !ruby/object:WhichBus::Stop
+  lat: 38.9595921
+  lon: -76.8776599
+  id: rivemaho
+  title: Riverdale Rd and Mahoney Dr
+herisqap: !ruby/object:WhichBus::Stop
+  lat: 38.9585215
+  lon: -76.8752215
+  id: herisqap
+  title: Riverdale Rd at Heritage Square Apartments
+annarive: !ruby/object:WhichBus::Stop
+  lat: 38.9554776
+  lon: -76.8735862
+  id: annarive
+  title: Annapolis Rd and Riverdale Rd
+annafinn: !ruby/object:WhichBus::Stop
+  lat: 38.953008
+  lon: -76.8782143
+  id: annafinn
+  title: Annapolis Rd and Finns Ln
+vtpkanna: !ruby/object:WhichBus::Stop
+  lat: 38.9509513
+  lon: -76.8848312
+  id: vtpkanna
+  title: Veterans Pkwy and Annapolis Rd
+ncarmetr: !ruby/object:WhichBus::Stop
+  lat: 38.9488713
+  lon: -76.8728252
+  id: ncarmetr
+  title: New Carrollton Metro Station
+lenocrap: !ruby/object:WhichBus::Stop
+  lat: 38.9538914
+  lon: -76.86878
+  id: lenocrap
+  title: 85th Ave at Lenox Court Apartments
+carrmnap: !ruby/object:WhichBus::Stop
+  lat: 38.9560196
+  lon: -76.8682799
+  id: carrmnap
+  title: 85th Ave at Carrollton Manor Apartments
+long85th: !ruby/object:WhichBus::Stop
+  lat: 38.9595986
+  lon: -76.8697998
+  id: long85th
+  title: 85th Ave and Longfellow St
+lega85th: !ruby/object:WhichBus::Stop
+  lat: 38.9607899
+  lon: -76.86988
+  id: lega85th
+  title: 85th Ave and Legation St
+westmadi: !ruby/object:WhichBus::Stop
+  lat: 38.9623384
+  lon: -76.870233
+  id: westmadi
+  title: Westbrook Dr and Madison St
+westogle: !ruby/object:WhichBus::Stop
+  lat: 38.9642509
+  lon: -76.8715632
+  id: westogle
+  title: Westbrook Dr and Oglethorpe St
+westpowh: !ruby/object:WhichBus::Stop
+  lat: 38.9655377
+  lon: -76.8730068
+  id: westpowh
+  title: Westbrook Dr and Powhatan St
+westlamo: !ruby/object:WhichBus::Stop
+  lat: 38.9658
+  lon: -76.88028
+  id: westlamo
+  title: Westbrook Dr and Lamont Dr
+lamolarc: !ruby/object:WhichBus::Stop
+  lat: 38.967877
+  lon: -76.8798725
+  id: lamolarc
+  title: Lamont Dr and Larchwood St
+lamocarr: !ruby/object:WhichBus::Stop
+  lat: 38.9693726
+  lon: -76.8801134
+  id: lamocarr
+  title: Lamont Dr and Carrollton Pkwy
+lamoquen: !ruby/object:WhichBus::Stop
+  lat: 38.971853
+  lon: -76.8807906
+  id: lamoquen
+  title: Lamont Dr and Quentin St
+lamodono: !ruby/object:WhichBus::Stop
+  lat: 38.974663
+  lon: -76.8821713
+  id: lamodono
+  title: Lamont Dr and Donoghue Dr
+lamoelem: !ruby/object:WhichBus::Stop
+  lat: 38.9749699
+  lon: -76.8838802
+  id: lamoelem
+  title: Good Luck Rd at Lamont Elementary School
+gdlknash: !ruby/object:WhichBus::Stop
+  lat: 38.9746888
+  lon: -76.8864037
+  id: gdlknash
+  title: Good Luck Rd and Nashville Rd
+gdlkian: !ruby/object:WhichBus::Stop
+  lat: 38.9725314
+  lon: -76.8912735
+  id: gdlkian
+  title: Good Luck Rd and Ian St
+aubuches: !ruby/object:WhichBus::Stop
+  lat: 38.971487
+  lon: -76.8937951
+  id: aubuches
+  title: Auburn Ave and Chestnut Ave
+aubu3rd: !ruby/object:WhichBus::Stop
+  lat: 38.9691257
+  lon: -76.894813
+  id: aubu3rd
+  title: Auburn Ave and 3rd St
+aubu1st: !ruby/object:WhichBus::Stop
+  lat: 38.9663098
+  lon: -76.89604
+  id: aubu1st
+  title: Auburn Ave and 1st St
+auburive: !ruby/object:WhichBus::Stop
+  lat: 38.96503
+  lon: -76.8966299
+  id: auburive
+  title: Auburn Ave and Riverdale Rd
+wildshop: !ruby/object:WhichBus::Stop
+  lat: 38.9644101
+  lon: -76.8978744
+  id: wildshop
+  title: Riverdale Rd at Wildercroft Shopping Center
+rive67ct: !ruby/object:WhichBus::Stop
+  lat: 38.9618134
+  lon: -76.9023121
+  id: rive67ct
+  title: Riverdale Rd and 67th Ct
+rive64th: !ruby/object:WhichBus::Stop
+  lat: 38.9612295
+  lon: -76.907408
+  id: rive64th
+  title: Riverdale Rd and 64th Ave
+rive62nd_in: !ruby/object:WhichBus::Stop
+  lat: 38.9607608
+  lon: -76.9120177
+  id: rive62nd_in
+  title: Riverdale Rd and 62nd Place
+rive58th: !ruby/object:WhichBus::Stop
+  lat: 38.9601372
+  lon: -76.915671
+  id: rive58th
+  title: Riverdale Rd at St Jude Lutheran Church
+ewhwtayl_in: !ruby/object:WhichBus::Stop
+  lat: 38.9624905
+  lon: -76.9290223
+  id: ewhwtayl_in
+  title: East-West Hwy and Taylor Rd (Inbound)
+baltsher: !ruby/object:WhichBus::Stop
+  lat: 38.9657284
+  lon: -76.9388188
+  id: baltsher
+  title: Baltimore Ave and Sheridan St
+ngarmo: !ruby/object:WhichBus::Stop
+  lat: 38.9683105
+  lon: -76.9384612
+  id: ngarmo
+  title: Baltimore Ave at National Guard Armory
+baltamhe: !ruby/object:WhichBus::Stop
+  lat: 38.9728518
+  lon: -76.937862
+  id: baltamhe
+  title: Baltimore Ave and Amherst Rd
+baltguil_in: !ruby/object:WhichBus::Stop
+  lat: 38.9774695
+  lon: -76.93782
+  id: baltguil_in
+  title: Baltimore Ave and Guilford Rd
+baltmacd: !ruby/object:WhichBus::Stop
+  lat: 38.9922354
+  lon: -76.9332591
+  id: baltmacd
+  title: Baltimore Avenue and Berwyn House Rd
+baltqueb_out: !ruby/object:WhichBus::Stop
+  lat: 38.9946077
+  lon: -76.9322249
+  id: baltqueb_out
+  title: Baltimore Ave and Quebec St (Outbound)
+baltberw_out: !ruby/object:WhichBus::Stop
+  lat: 38.9959517
+  lon: -76.9317754
+  id: baltberw_out
+  title: Baltimore Ave and Berwyn Rd (Outbound)
+baltcher_out: !ruby/object:WhichBus::Stop
+  lat: 39.0038235
+  lon: -76.9304417
+  id: baltcher_out
+  title: Baltimore Ave and Cherokee St (Outbound)
+baltindi_out: !ruby/object:WhichBus::Stop
+  lat: 39.0085931
+  lon: -76.9292018
+  id: baltindi_out
+  title: Baltimore Ave and Indian Ln (Outbound)
+mazz: !ruby/object:WhichBus::Stop
+  lat: 39.01112
+  lon: -76.93004
+  id: mazz
+  title: Mazza GrandMarc
+baltindi_in: !ruby/object:WhichBus::Stop
+  lat: 39.0086738
+  lon: -76.9293289
+  id: baltindi_in
+  title: Baltimore Ave and Indian Ln (Inbound)
+baltcher_in: !ruby/object:WhichBus::Stop
+  lat: 39.0038735
+  lon: -76.9305791
+  id: baltcher_in
+  title: Baltimore Ave and Cherokee St (Inbound)
+baltberw_s: !ruby/object:WhichBus::Stop
+  lat: 38.9964072
+  lon: -76.931829
+  id: baltberw_s
+  title: Baltimore Ave and Berwyn Rd (Inbound)
+baltqueb_in: !ruby/object:WhichBus::Stop
+  lat: 38.9946244
+  lon: -76.932356
+  id: baltqueb_in
+  title: Baltimore Ave and Quebec St (Inbound)
+baltview_s: !ruby/object:WhichBus::Stop
+  lat: 38.9923293
+  lon: -76.9333515
+  id: baltview_s
+  title: Baltimore Ave at University View
+varsfron: !ruby/object:WhichBus::Stop
+  lat: 38.9908313
+  lon: -76.9340075
+  id: varsfron
+  title: Baltimore Ave at The Varsity
+hoff_e: !ruby/object:WhichBus::Stop
+  lat: 38.9880692
+  lon: -76.94539
+  id: hoff_e
+  title: Hoff Theater
+uniofiel_e: !ruby/object:WhichBus::Stop
+  lat: 38.988695
+  lon: -76.94531
+  id: uniofiel_e
+  title: Union Ln and Fieldhouse Dr
+capfbyrd: !ruby/object:WhichBus::Stop
+  lat: 38.9890564
+  lon: -76.9467347
+  id: capfbyrd
+  title: Capital One Field at Byrd Stadium
+dent_e: !ruby/object:WhichBus::Stop
+  lat: 38.9919413
+  lon: -76.9500943
+  id: dent_e
+  title: Denton Hall
+enclave_s: !ruby/object:WhichBus::Stop
+  lat: 38.99782
+  lon: -76.93182
+  id: enclave_s
+  title: The Enclave
+vars: !ruby/object:WhichBus::Stop
+  lat: 38.9908313
+  lon: -76.9340075
+  id: vars
+  title: Baltimore Ave at The Varsity
+varsity_s: !ruby/object:WhichBus::Stop
+  lat: 38.9910302
+  lon: -76.93441
+  id: varsity_s
+  title: The Varsity
+balthart_out: !ruby/object:WhichBus::Stop
+  lat: 38.9796317
+  lon: -76.93783
+  id: balthart_out
+  title: Baltimore Avenue and Hartwick Road (Outbound)
+baltqueb: !ruby/object:WhichBus::Stop
+  lat: 38.9944521
+  lon: -76.9322962
+  id: baltqueb
+  title: Baltimore Avenue and Quebec Street (Outbound)
+rhod7elv: !ruby/object:WhichBus::Stop
+  lat: 38.9986603
+  lon: -76.9254404
+  id: rhod7elv
+  title: Rhode Island Avenue at 7-Eleven
+rhoduniv_o: !ruby/object:WhichBus::Stop
+  lat: 39.0007493
+  lon: -76.9249187
+  id: rhoduniv_o
+  title: Rhode Island Avenue and University Boulevard (Outbound)
+ikea: !ruby/object:WhichBus::Stop
+  lat: 39.02217
+  lon: -76.928193
+  id: ikea
+  title: IKEA
+ikeaway: !ruby/object:WhichBus::Stop
+  lat: 39.02157
+  lon: -76.9268709
+  id: ikeaway
+  title: IKEA Way and IKEA Center Boulevard
+edge49th_i: !ruby/object:WhichBus::Stop
+  lat: 39.015966
+  lon: -76.9242458
+  id: edge49th_i
+  title: Edgewood Road and 49th Avenue (Inbound)
+edgerhod_i: !ruby/object:WhichBus::Stop
+  lat: 39.015969
+  lon: -76.9212338
+  id: edgerhod_i
+  title: Edgewood Road and Rhode Island Avenue (Inbound)
+rhodholl_i: !ruby/object:WhichBus::Stop
+  lat: 39.0106218
+  lon: -76.922366
+  id: rhodholl_i
+  title: Rhode Island Avenue and Hollywood Road (Inbound)
+rhodcher_i: !ruby/object:WhichBus::Stop
+  lat: 39.0027638
+  lon: -76.924481
+  id: rhodcher_i
+  title: Rhode Island Avenue and Cherokee Street (Inbound)
+rhoduniv_i: !ruby/object:WhichBus::Stop
+  lat: 38.9997628
+  lon: -76.92532
+  id: rhoduniv_i
+  title: Rhode Island Avenue and University Boulevard (Inbound)
+gree60th_m: !ruby/object:WhichBus::Stop
+  lat: 38.9979499
+  lon: -76.9126794
+  id: gree60th_m
+  title: Greenbelt Rd and 60th Ave
+beltplaz: !ruby/object:WhichBus::Stop
+  lat: 38.998563
+  lon: -76.907619
+  id: beltplaz
+  title: Beltway Plaza
+greencher_r: !ruby/object:WhichBus::Stop
+  lat: 38.99804
+  lon: -76.9118021
+  id: greencher_r
+  title: Greenbelt Rd and Cherrywood Ln
+univrhod: !ruby/object:WhichBus::Stop
+  lat: 38.998921
+  lon: -76.92459
+  id: univrhod
+  title: University Blvd and Rhode Island Ave (Inbound)
+regegara_g: !ruby/object:WhichBus::Stop
+  lat: 38.9895211
+  lon: -76.9407719
+  id: regegara_g
+  title: Regents Drive Garage
+campmath_g: !ruby/object:WhichBus::Stop
+  lat: 38.9878607
+  lon: -76.9386063
+  id: campmath_g
+  title: Campus Dr at Math Slip
+paingree_g: !ruby/object:WhichBus::Stop
+  lat: 38.987988
+  lon: -76.9340374
+  id: paingree_g
+  title: Paint Branch Pkwy and Greenhouse Rd (Outbound)
+painrhod_g: !ruby/object:WhichBus::Stop
+  lat: 38.9836054
+  lon: -76.9313264
+  id: painrhod_g
+  title: Paint Branch Pkwy and Rhode Island Ave (Outbound)
+cmetgara_g: !ruby/object:WhichBus::Stop
+  lat: 38.9797798
+  lon: -76.9270999
+  id: cmetgara_g
+  title: Paint Branch Pkwy at College Park Metro Station
+pain52nd_g: !ruby/object:WhichBus::Stop
+  lat: 38.9767077
+  lon: -76.9232823
+  id: pain52nd_g
+  title: Paint Branch Pkwy and 52nd Ave (Outbound)
+edmknox_g: !ruby/object:WhichBus::Stop
+  lat: 38.9798617
+  lon: -76.9129391
+  id: edmknox_g
+  title: Edmonston Rd and Knoxville Dr (Outbound)
+edmbryn_g: !ruby/object:WhichBus::Stop
+  lat: 38.983122
+  lon: -76.9102089
+  id: edmbryn_g
+  title: Edmonston Rd and Bryn Mawr Rd (Outbound)
+edmberw_g: !ruby/object:WhichBus::Stop
+  lat: 38.988008
+  lon: -76.9084714
+  id: edmberw_g
+  title: Edmonston Rd and Berwyn Rd (Outbound)
+westpark_g: !ruby/object:WhichBus::Stop
+  lat: 38.9899999
+  lon: -76.9043199
+  id: westpark_g
+  title: Westchester Park Circle
+greewalko_m: !ruby/object:WhichBus::Stop
+  lat: 38.9960406
+  lon: -76.8954429
+  id: greewalko_m
+  title: Greenbelt Rd and Walker Dr
+lakelake_r: !ruby/object:WhichBus::Stop
+  lat: 38.9978003
+  lon: -76.886087
+  id: lakelake_r
+  title: Lakecrest Dr and Lakeside Dr
+lakewest_r: !ruby/object:WhichBus::Stop
+  lat: 38.998608
+  lon: -76.8848813
+  id: lakewest_r
+  title: Lakeside Dr and Westway
+westridg_r: !ruby/object:WhichBus::Stop
+  lat: 38.9995339
+  lon: -76.881976
+  id: westridg_r
+  title: Westway and Ridge Rd
+ridgsout_r: !ruby/object:WhichBus::Stop
+  lat: 38.9986295
+  lon: -76.8767673
+  id: ridgsout_r
+  title: Ridge Rd and Southway
+ridggard_r: !ruby/object:WhichBus::Stop
+  lat: 39.0006215
+  lon: -76.8729367
+  id: ridggard_r
+  title: Ridge Rd and Gardenway
+ridgeast_r: !ruby/object:WhichBus::Stop
+  lat: 39.0048964
+  lon: -76.8727822
+  id: ridgeast_r
+  title: Ridge Rd and Eastway
+ridgplat_r: !ruby/object:WhichBus::Stop
+  lat: 39.0092354
+  lon: -76.8733012
+  id: ridgplat_r
+  title: Ridge Rd and Plateau Pl
+ridgrese_r: !ruby/object:WhichBus::Stop
+  lat: 39.0113699
+  lon: -76.8780188
+  id: ridgrese_r
+  title: Ridge Rd and Research Rd
+lastjuli_r: !ruby/object:WhichBus::Stop
+  lat: 39.0090903
+  lon: -76.8853265
+  id: lastjuli_r
+  title: Lastner Ln and Julian Ct
+lastivy_r: !ruby/object:WhichBus::Stop
+  lat: 39.0075076
+  lon: -76.8887267
+  id: lastivy_r
+  title: Lastner Ln and Ivy Ln
+ivyridg_r: !ruby/object:WhichBus::Stop
+  lat: 39.007748
+  lon: -76.890629
+  id: ivyridg_r
+  title: Ivy Ln and Ridge Rd
+westpark_r: !ruby/object:WhichBus::Stop
+  lat: 38.9899999
+  lon: -76.9043199
+  id: westpark_r
+  title: Westchester Park Circle
+edmberw_r: !ruby/object:WhichBus::Stop
+  lat: 38.9881076
+  lon: -76.9085516
+  id: edmberw_r
+  title: Edmonston Rd and Berwyn Rd (Inbound)
+edmbryn_r: !ruby/object:WhichBus::Stop
+  lat: 38.9835573
+  lon: -76.9100913
+  id: edmbryn_r
+  title: Edmonston Rd and Bryn Mawr Rd (Inbound)
+edmknox_r: !ruby/object:WhichBus::Stop
+  lat: 38.9802537
+  lon: -76.9128334
+  id: edmknox_r
+  title: Edmonston Rd and Knoxville Dr (Inbound)
+pain52nd_r: !ruby/object:WhichBus::Stop
+  lat: 38.9768775
+  lon: -76.9234439
+  id: pain52nd_r
+  title: Paint Branch Pkwy and 52nd Ave (Inbound)
+pain50th_r: !ruby/object:WhichBus::Stop
+  lat: 38.9789399
+  lon: -76.9266499
+  id: pain50th_r
+  title: Paint Branch Pkwy and 50th Ave
+painrhod_r: !ruby/object:WhichBus::Stop
+  lat: 38.9835717
+  lon: -76.9309581
+  id: painrhod_r
+  title: Paint Branch Pkwy and Rhode Island Ave (Inbound)
+paingree_r: !ruby/object:WhichBus::Stop
+  lat: 38.9870499
+  lon: -76.9331599
+  id: paingree_r
+  title: Paint Branch Pkwy and Greenhouse Rd (Inbound)
+greeseve: !ruby/object:WhichBus::Stop
+  lat: 38.9980899
+  lon: -76.9241294
+  id: greeseve
+  title: Greenbelt Rd at Severn Building (Outbound)
+gree60th_r: !ruby/object:WhichBus::Stop
+  lat: 38.9973246
+  lon: -76.9119884
+  id: gree60th_r
+  title: 60th Ave and Greenbelt Rd (Outbound)
+ruat60th_r: !ruby/object:WhichBus::Stop
+  lat: 38.9947927
+  lon: -76.9115233
+  id: ruat60th_r
+  title: 60th Ave and Ruatan St (Outbound)
+cunnpont_r: !ruby/object:WhichBus::Stop
+  lat: 38.9923648
+  lon: -76.913055
+  id: cunnpont_r
+  title: Cunningham Dr and Pontiac St
+pont63rd_r: !ruby/object:WhichBus::Stop
+  lat: 38.9910679
+  lon: -76.9080267
+  id: pont63rd_r
+  title: Pontiac St and 63rd Ave (Outbound)
+greelakeo_m: !ruby/object:WhichBus::Stop
+  lat: 38.9956299
+  lon: -76.8871636
+  id: greelakeo_m
+  title: Greenbelt Rd and Lakecrest Dr
+hanogree_r: !ruby/object:WhichBus::Stop
+  lat: 38.9947956
+  lon: -76.8738004
+  id: hanogree_r
+  title: Hanover Pkwy and Greenbelt Rd
+hano7718_r: !ruby/object:WhichBus::Stop
+  lat: 38.9969312
+  lon: -76.8686941
+  id: hano7718_r
+  title: Hanover Pkwy at Eleanor Roosevelt High School
+hano7824_r: !ruby/object:WhichBus::Stop
+  lat: 38.9978166
+  lon: -76.8660019
+  id: hano7824_r
+  title: Hanover Pkwy and Mandan Rd
+mandgoak_r: !ruby/object:WhichBus::Stop
+  lat: 38.9926598
+  lon: -76.8644375
+  id: mandgoak_r
+  title: Mandan Rd at Glen Oaks Apartments
+greebrit_out: !ruby/object:WhichBus::Stop
+  lat: 38.9912668
+  lon: -76.8586113
+  id: greebrit_out
+  title: Greenbelt Road at Chelsea Woods Condominiums (Outbound)
+nasagree_out: !ruby/object:WhichBus::Stop
+  lat: 38.9907998
+  lon: -76.8526588
+  id: nasagree_out
+  title: Greenbelt Rd at NASA Main Entrance (Outbound)
+icesat: !ruby/object:WhichBus::Stop
+  lat: 38.993551
+  lon: -76.8445028
+  id: icesat
+  title: ICESat Rd and Visitor's Center Entrance
+nasagodd: !ruby/object:WhichBus::Stop
+  lat: 38.992833
+  lon: -76.8466224
+  id: nasagodd
+  title: NASA Goddard Space Flight Center Visitor Center
+nasagree_in: !ruby/object:WhichBus::Stop
+  lat: 38.9910758
+  lon: -76.8532401
+  id: nasagree_in
+  title: Greenbelt Rd at NASA Main Entrance (Inbound)
+greebrit_in: !ruby/object:WhichBus::Stop
+  lat: 38.9914497
+  lon: -76.8585435
+  id: greebrit_in
+  title: Greenbelt Rd at Chelsea Woods Condominiums (Inbound)
+mandcann_m: !ruby/object:WhichBus::Stop
+  lat: 38.990448
+  lon: -76.864508
+  id: mandcann_m
+  title: Mandan Rd and Canning Terr
+oraggree_m: !ruby/object:WhichBus::Stop
+  lat: 38.9903298
+  lon: -76.8706805
+  id: oraggree_m
+  title: Ora Glen Dr and Greenbrook Dr
+oraghano_m: !ruby/object:WhichBus::Stop
+  lat: 38.9911596
+  lon: -76.8753272
+  id: oraghano_m
+  title: Ora Glen Dr and Hanover Pkwy
+hanogreen: !ruby/object:WhichBus::Stop
+  lat: 38.9923535
+  lon: -76.8753256
+  id: hanogreen
+  title: Hanover Parkway at Greenway Center
+greegreei_r: !ruby/object:WhichBus::Stop
+  lat: 38.9942301
+  lon: -76.8770006
+  id: greegreei_r
+  title: Greenbelt Rd at Greenway Center (Inbound)
+pont63rd_g: !ruby/object:WhichBus::Stop
+  lat: 38.9910474
+  lon: -76.9076998
+  id: pont63rd_g
+  title: Pontiac St and 63rd Ave (Inbound)
+pontcunn_g: !ruby/object:WhichBus::Stop
+  lat: 38.9922587
+  lon: -76.9129187
+  id: pontcunn_g
+  title: Pontiac St and Cunningham Dr
+ruat60th_g: !ruby/object:WhichBus::Stop
+  lat: 38.994624
+  lon: -76.9114004
+  id: ruat60th_g
+  title: 60th Ave and Ruatan St (Inbound)
+gree60th_g: !ruby/object:WhichBus::Stop
+  lat: 38.9972699
+  lon: -76.9119099
+  id: gree60th_g
+  title: 60th Ave and Greenbelt Rd (Inbound)
+greerhod: !ruby/object:WhichBus::Stop
+  lat: 38.998213
+  lon: -76.925443
+  id: greerhod
+  title: Greenbelt Rd at Severn Building (Inbound)
+regegara_m: !ruby/object:WhichBus::Stop
+  lat: 38.9895198
+  lon: -76.9407499
+  id: regegara_m
+  title: Regents Drive Garage
+wdiapknr_d: !ruby/object:WhichBus::Stop
+  lat: 39.1411079
+  lon: -77.211631
+  id: wdiapknr_d
+  title: West Diamond Ave Park & Ride Lot
