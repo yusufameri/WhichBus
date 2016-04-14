@@ -31,7 +31,7 @@ def create_nodes_from(stops)
   nodes
 end
 
-nodes_117 = create_nodes_from(stops_117)
+# nodes_117 = create_nodes_from(stops_117)
 nodes_116 = create_nodes_from(stops_116)
 
 # adds the nodes to the graph
@@ -41,14 +41,8 @@ def add_nodes_to_graph(graph, nodes)
   end
 end
 
-add_nodes_to_graph(graph, nodes_117)
+# add_nodes_to_graph(graph, nodes_117)
 add_nodes_to_graph(graph, nodes_116)
-
-
-# stops_117.each_with_index do |stop, index|
-#   nodes_117 << WhichBus::Node.new("#{stop[1].title}", stop[1])
-#   graph.add_node(nodes_117[index])
-# end
 
 # connect all the nodes for a particular bus to its normal schedualed path
 def connect_nodes(graph, nodes, route_id)
@@ -74,18 +68,8 @@ def connect_nodes(graph, nodes, route_id)
   end
 end
 
-connect_nodes(graph, nodes_117, 117)
+# connect_nodes(graph, nodes_117, 117)
 connect_nodes(graph, nodes_116, 116)
-
-# # connect the nodes on the graph to each other, sequentially
-# nodes_117[0..-1].each_with_index do |node, index|
-#   # connect the last node to the first node
-#   if index == nodes_117.size - 1
-#     graph.add_edge(node, nodes_117[0] , 5)
-#   else # connect the current node to the next node
-#     graph.add_edge(node, nodes_117[index + 1] , 5)
-#   end
-# end
 
 # returns the index that the node with stopid is in the nodes array
 def index_of_stopid(stopid, nodes)
@@ -121,6 +105,6 @@ def print_shortest_path(graph, nodes, source_stopid, destination_stopid)
   return shortest_path
 end
 
-all_nodes = nodes_117 + nodes_116
+# all_nodes = nodes_117 + nodes_116
 
-print_shortest_path(graph, all_nodes, "hoff", "biofield")
+print_shortest_path(graph, nodes_116, "hoff", "biofield")
